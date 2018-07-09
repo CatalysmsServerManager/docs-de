@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      {
+        "key": "firstarg",
+        "type": "text",
+        "required": true,
+        "defaultValue": ""
+      }
+    ],
+    "costToExecute": 100,
+    "name": "stop",
+    "commandsToExecute": "weather ${firstarg} 0",
+    "enabled": true,
+    "delay": 0,
+    "timeout": 300
+  }
+]

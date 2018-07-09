@@ -1,0 +1,11 @@
+[
+  {
+    "arguments": [],
+    "costToExecute": 0,
+    "name": "starterkit",
+    "commandsToExecute": "give ${entityId} woodenBow 1 200 ;give ${entityId} arrow 30 ;give ${entityId} goldenRodTea 2 ;give ${entityId} baconAndEggs 2 ;give ${entityId} firstAidBandage 2 ;give ${entityId} fireaxeIron 1 200 ;sayplayer ${entityId} \"starter kit at your feet\" ",
+    "enabled": true,
+    "delay": 0,
+    "timeout": 7890000
+  }
+]
