@@ -1,8 +1,8 @@
-About
-=======
+Über
+======
 
-How does CSMM work?
---------------------
+Wie funktioniert CSMM?
+----------------------
 
 At the very basic level, CSMM communicates with your server via the web API provided by Allocs fixes.
 
