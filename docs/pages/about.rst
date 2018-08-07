@@ -1,9 +1,9 @@
-Über CSMM
-=========
+Über
+======
 
-Die Funktionsweise von CSMM:
-----------------------------
+Wie funktioniert CSMM?
+----------------------
 
-Einfach ausgedrückt, kommuniziert CSMM mit dem Spiele-Server über eine sog. Web-API Schnittstelle (werden über die "Allocs fixes" bereit gestellt).
+At the very basic level, CSMM communicates with your server via the web API provided by Allocs fixes.
 
-Sobald eine Verbindung hergestellt wurde, verwendet CSMM eine `eigens erstellte Bibliothek <https://github.com/niekcandaele/machinepack-7Days-webapi/>`_ um  Daten abzurufen/senden/formatieren/.... 
+Once that has happened, CSMM uses a `custom library <https://github.com/niekcandaele/machinepack-7Days-webapi/>`_ to get/set/format/... data. 
