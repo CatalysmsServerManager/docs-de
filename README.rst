@@ -1,11 +1,11 @@
 |docs|
 
-English documentation
-====================
+Deutsche Dokumentation
+=======================
 
-If you want to write some docs, you're at the right place!
+Diese Dokumentation wird derzeit überarbeitet.
 
-For more info, please stop by the `Discord server <https://discordapp.com/invite/EwyDdNA>`_  
+Besucht uns doch bitte auch in unserem `Discord server <https://discordapp.com/invite/EwyDdNA>`_  
 
 .. |docs| image:: https://readthedocs.org/projects/pip/badge/
     :alt: Documentation Status
